@@ -10,7 +10,7 @@ module.exports = {
             name,
             category,
             price
-        })
+        })  
 
         return res.json({ok:true})
     }
